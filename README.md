@@ -42,8 +42,8 @@ Most of my strongest work is under client NDA or lives in private product reposi
 **[thebesto-drugcreator](https://github.com/t4repo/thebesto-drugcreator)**  
 <sub>`Lua` · updated Jun 2026</sub>
 
-**[diarazemi.github.io](https://github.com/t4repo/diarazemi.github.io)**  
-<sub>updated Jun 2026</sub>
+**[greencrew-hr-portal](https://github.com/t4repo/greencrew-hr-portal)** — HR portal for a landscaping company — time-off requests, employee onboarding, and crew certifications  
+<sub>`HTML` · updated Sep 2026</sub>
 <!-- REPOS:END -->
 
 <br>
@@ -80,11 +80,12 @@ Ship, then measure.        A screening tool nobody trusts is worth less than a
 **Public code by language**
 
 ```text
-Lua         ████████████░░░░░░░░░░░░   50.1%
-JavaScript  █████████░░░░░░░░░░░░░░░   38.1%
-CSS         ██░░░░░░░░░░░░░░░░░░░░░░    7.6%
-C#          █░░░░░░░░░░░░░░░░░░░░░░░    2.7%
-HTML        ░░░░░░░░░░░░░░░░░░░░░░░░    1.5%
+Lua         ██████████░░░░░░░░░░░░░░   39.9%
+JavaScript  █████████░░░░░░░░░░░░░░░   35.4%
+CSS         ███░░░░░░░░░░░░░░░░░░░░░   13.0%
+HTML        ██░░░░░░░░░░░░░░░░░░░░░░    9.2%
+C#          █░░░░░░░░░░░░░░░░░░░░░░░    2.1%
+TypeScript  ░░░░░░░░░░░░░░░░░░░░░░░░    0.3%
 ```
 
 <sub>Measured across this account's own public repositories — forks excluded. It reflects what is open, not what pays the bills.</sub>
@@ -105,5 +106,5 @@ I take on a limited number of contracts — AI/RAG feature work, full-stack prod
 <br>
 
 <!-- META:START -->
-<sub>6 public repositories · 5 stars · last refreshed 07 Sep 2026, 15:57 UTC by [a workflow in this repository](https://github.com/t4repo/t4repo/blob/main/.github/workflows/refresh-profile.yml).</sub>
+<sub>7 public repositories · 5 stars · last refreshed 08 Sep 2026, 09:36 UTC by [a workflow in this repository](https://github.com/t4repo/t4repo/blob/main/.github/workflows/refresh-profile.yml).</sub>
 <!-- META:END -->
